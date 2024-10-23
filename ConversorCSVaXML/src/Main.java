@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        ConversorCSVaXML conversor = new ConversorCSVaXML();
+        conversor.convertirCSVaXML("estudiantes.csv", "estudiantes.xml");
     }
 }
