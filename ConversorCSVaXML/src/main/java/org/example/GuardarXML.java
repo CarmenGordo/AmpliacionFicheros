@@ -1,3 +1,5 @@
+package org.example;
+
 import org.w3c.dom.Document;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerFactory;
@@ -20,3 +22,4 @@ public class GuardarXML {
         }
     }
 }
+
