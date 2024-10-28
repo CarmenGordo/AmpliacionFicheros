@@ -1,0 +1,12 @@
+// uso del cat para ver este contenido
+
+Ocurrencias por nivel de log:
+INFO: 4
+ERROR: 4
+WARNING: 2
+
+Los 5 errores más comunes:
+No se pudo conectar a la base de datos - 3 ocurrencias
+Error en el módulo de autenticación - 1 ocurrencias
+
+Informe generado exitosamente.

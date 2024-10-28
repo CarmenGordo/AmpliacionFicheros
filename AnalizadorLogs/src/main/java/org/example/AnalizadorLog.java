@@ -76,6 +76,6 @@ public class AnalizadorLog {
 
     public static void main(String[] args) {
         AnalizadorLog analizador = new AnalizadorLog();
-        analizador.analizarLogs("logs.txt", "informe.txt");
+        analizador.analizarLogs("src/main/resources/logs.txt", "informe.txt");
     }
 }
