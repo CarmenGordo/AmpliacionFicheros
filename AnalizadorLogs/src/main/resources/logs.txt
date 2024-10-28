@@ -1,0 +1,10 @@
+2024-10-22 12:00:01, INFO, Usuario inició sesión
+2024-10-22 12:05:43, ERROR, No se pudo conectar a la base de datos
+2024-10-22 12:15:25, WARNING, Memoria insuficiente
+2024-10-22 12:20:11, INFO, Usuario cerró sesión
+2024-10-22 12:25:30, ERROR, No se pudo conectar a la base de datos
+2024-10-22 12:30:42, ERROR, Error en el módulo de autenticación
+2024-10-22 12:35:59, INFO, Usuario cambió contraseña
+2024-10-22 12:45:05, WARNING, Alta latencia en el servidor
+2024-10-22 12:50:19, ERROR, No se pudo conectar a la base de datos
+2024-10-22 12:55:30, INFO, Reporte generado
